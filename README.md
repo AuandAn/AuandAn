@@ -1,8 +1,9 @@
-## Hi there 👋
+## Hi 👋
 
-FJU EE
 
-fju_blackrollers
+🐔FJU EE
+
+🛼fju_blackrollers
 
 <!--
 **AuandAn/AuandAn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
